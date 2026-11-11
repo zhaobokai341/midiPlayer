@@ -8,7 +8,7 @@ A Python tool that converts MIDI note data into compact PNG images and plays mus
 
 ---
 
-## ✨ Features | 功能特性
+## Features | 功能特性
 
 - **MIDI to PNG:** Convert MIDI files into encoded PNG images.  
   **MIDI 转 PNG：** 将 MIDI 文件转换为编码后的 PNG 图片。
@@ -27,7 +27,7 @@ A Python tool that converts MIDI note data into compact PNG images and plays mus
 
 ---
 
-## 📦 Requirements | 环境要求
+## Requirements | 环境要求
 
 - Python 3.10 or newer  
   Python 3.10 或更高版本
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage | 使用方法
+## Usage | 使用方法
 
 ### 1. Convert MIDI to PNG | 将 MIDI 转换为 PNG
 
@@ -67,7 +67,7 @@ python convertToImageAndPlay.py play output.png
 
 ---
 
-## 🧩 How It Works | 工作原理
+## How It Works | 工作原理
 
 **English**
 
@@ -101,7 +101,7 @@ Each note is represented by a fixed-size pixel record containing information suc
 
 ---
 
-## ⚠️ Notes | 注意事项
+## Notes | 注意事项
 
 - **English:** Encoded PNG files are data files, not ordinary visual images.
 - **中文：** 编码后的 PNG 是数据文件，而不是普通的可视化图片。
